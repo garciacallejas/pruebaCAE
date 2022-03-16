@@ -1,0 +1,6 @@
+
+
+# script de ejemplo
+
+
+
